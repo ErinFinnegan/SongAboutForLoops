@@ -1,24 +1,31 @@
 //  Notes on rhyme schemes:  http://www.taxi.com/music-business-faq/songwriting/rhyme/rhymerhymeschemes.php
 
 
-A 
-B 
-A 
-B 
+A All computer languages have loops,
+B loops for what and while and when.
+A Before your brain reboots,
+B Let’s go over this again!
 
-A 
-B 
-A 
-B 
+A First you initialize,
+B then you check if your condition is true.
+A Next you increment another step, your code amplifies!
+B Is the condition still true?  It’s time to review!
 
-A 
-B 
-A 
-B 
+A We’ve sung this song [zero] times before,
+B For as long as we’ve sung it less than three times,
+A We’ll sing this song, and sing it once more.
+B Until we hit four, or run out of rhymes.
 
-A 
-B 
-A 
-B 
+A Initialize! 
+B Is the condition true?
+A Take one step forward.
+B Is the condition false? Then stop.
+
+
+//Loops were probably invented by Ada Lovelace 
+// For loops perhaps first appeared in ALGOL 60, short for ALGOrithmic Language, a programming language developed by European and American computer scientists
+
+//Maybe a take on Henry the 8th song?
+
 
 
