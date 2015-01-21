@@ -21,12 +21,24 @@ Is the condition false? Then stop.
 For the variable i equals zero,
 while i is less than five,
 i equals i plus one.
-(They call it i++)
+(They call this i++)
 Do my command!
 
 — C or C++
 for initialization; condition; 
 increment/decrement
     statement
+
+- Fred Bremmer version (based on http://poetry.about.com/od/poetryplay/l/blwakawaka2.htm  )
+#for (var i = 0; i < 5; i++) {
+#    // ...
+#}
+
+for left paren var i equals zero, semi-colon
+i waka five semi-colon
+i plus plus right paren curly bracket
+some code you wrote
+curly bracket
+end
 
 
