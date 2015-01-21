@@ -1,5 +1,7 @@
 Notes about for loops:
 
+http://en.wikipedia.org/wiki/For_loop
+
 Shiffman on for loops:  https://vimeo.com/channels/introcompmedia/71904715
 
 As always, his videos are charming, but not necessarily clear to outsiders.
@@ -16,3 +18,9 @@ Here are some other links about for loops:
 http://www.tutorialspoint.com/cplusplus/cpp_for_loop.htm
 https://processing.org/reference/for.html
 http://www.w3schools.com/js/js_loop_for.asp
+
+A very good explanation:
+http://www.cs.utah.edu/~germain/PPS/Topics/for_loops.html
+^^^
+“For” loops are used for known conditions, and “while” loops are used for unknown conditions.
+
