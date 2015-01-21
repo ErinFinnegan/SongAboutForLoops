@@ -1,5 +1,9 @@
 Notes about for loops:
 
+Loops were probably invented by Ada Lovelace 
+For loops perhaps first appeared in ALGOL 60, short for ALGOrithmic Language, a programming language developed by European and American computer scientists
+
+
 http://en.wikipedia.org/wiki/For_loop
 
 Shiffman on for loops:  https://vimeo.com/channels/introcompmedia/71904715
