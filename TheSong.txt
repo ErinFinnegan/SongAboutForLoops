@@ -17,6 +17,16 @@ Is the condition true?
 Take one step forward.
 Is the condition false? Then stop.
 
+—- In Javascript
+For the variable i equals zero,
+while i is less than five,
+i equals i plus one.
+(They call it i++)
+Do my command!
 
+— C or C++
+for initialization; condition; 
+increment/decrement
+    statement
 
 
