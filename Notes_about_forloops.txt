@@ -1,0 +1,18 @@
+Notes about for loops:
+
+Shiffman on for loops:  https://vimeo.com/channels/introcompmedia/71904715
+
+As always, his videos are charming, but not necessarily clear to outsiders.
+
+...as far as I can tell, there are four steps to explain here:
+
+1. Initialize
+2. Test - Check the condition
+3. Update, Iterate, increment
+4. Exit Condition is met, so leave the loop
+
+Here are some other links about for loops:
+
+http://www.tutorialspoint.com/cplusplus/cpp_for_loop.htm
+https://processing.org/reference/for.html
+http://www.w3schools.com/js/js_loop_for.asp
