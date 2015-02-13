@@ -1,0 +1,54 @@
+
+to ITP
+Due to a startling lack of participants in my GitHub songwriting experiment (  https://github.com/ErinFinnegan/SongAboutForLoops  ), I turned to Mechanical Turk... and got some results:
+
+
+----------------
+
+"Start the loop with a number you know,
+Set the number of times and tell it go,
+Something will happen each step of the way,
+Once it reaches the max then there it will stay."
+
+----------------
+
+"Set j to zero, that's less than four
+Next add one to j and do some things
+j is now 1, still less than four, I'll check it again three times more
+In between checks I'll do some work, but when j is four I'm exiting"
+
+----------------
+"When I want to complete some code in one fell swoop
+The first thing I turn to is my trusty for loop
+When I need my code to repeat a fixed number of times
+The for loop will do it, it can even be used to make clock chimes"
+
+----------------
+
+"Want to learn some javascript dude?
+You need the right technical attitude.
+Know about your for loops, man.
+Don't say ""no,"" say ""Yes I can.""
+
+Gotta know that they loop a certain way.
+They loop through a block of code, maybe all day.
+Gotta know what your want for a start value.
+A continue or end condition, that's all up to you.
+
+Don't forget about your increase value.
+And also your statement, make it coo'.
+Wanna know Javascript, don't be a zero.
+Learn your for loops, and be a hero."
+
+-----------
+
+Here are instructions I gave:
+
+Write one stanza of a song, rap, or poem about "for loops". The song should be explanatory, for teaching purposes, aimed at kids 8-12, so no swearing or explicit lyrics.
+
+    Each stanza should be exactly four lines long.  Each line should not be longer than 25 words.  Ideally, around 5-10 words per line.
+    Use either an ABBA or an ABAB rhyming scheme. Iambic pentameter or other forms of rhyming are also acceptable. No free verse, please.
+    Your submission must be at least 10 words long but no more than 80 words. No award will be given for submissions of less than 10 words.
+    The lyrics must be about "for loops".
+    You do not need to write the music.
+
